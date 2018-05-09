@@ -27,5 +27,5 @@ To install the  package, you must install from GitHub using the `devtools` packa
 library(devtools)
 install_github("mikejohnson51/ET")
 ```
-
+#nice. 
 
